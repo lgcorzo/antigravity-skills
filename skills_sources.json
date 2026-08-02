@@ -123,5 +123,17 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "baoyu-skills",
+        "repo_url": "https://github.com/JimLiu/baoyu-skills.git",
+        "branch": "main",
+        "copy_rules": [
+            {
+                "source": "skills",
+                "dest": "skills",
+                "exclude": []
+            }
+        ]
     }
 ]
